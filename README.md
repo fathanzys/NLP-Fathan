@@ -1,6 +1,4 @@
-Berikut adalah contoh isi **README.md** yang cocok untuk project analisis sentimen komentar TikTok menggunakan Python dan Machine Learning:
-
----
+\
 
 # 🎯 Sentiment Analysis on TikTok Comments – *"Kabur Aja Dulu" by Presiden Jokowi*
 
