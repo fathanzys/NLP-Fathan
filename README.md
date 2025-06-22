@@ -1,4 +1,4 @@
-# 🎯 Sentiment Analysis on TikTok Comments – *"Kabur Aja Dulu" by Presiden Jokowi*
+# 🎯 Sentiment Analysis Ijazah Presiden Jokowi
 
 This repository contains a sentiment analysis project on TikTok comments related to President Jokowi’s popular phrase *"Kabur Aja Dulu"*. The goal is to classify public sentiment into **positive**, **neutral**, or **negative** using natural language processing (NLP) and machine learning techniques.
 
