@@ -43,12 +43,6 @@ This project focuses on detecting fake news based solely on news headlines using
 
 ## 🔧 Requirements
 
-Install required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
 Recommended:
 
 * Python 3.8+
@@ -74,9 +68,7 @@ Recommended:
 ## 📚 References
 
 * [ISOT Fake News Dataset]([https://www.kaggle.com/datasets/shayanfazeli/isot-fake-news-dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset))
-* Pennington et al. (2014) - GloVe: Global Vectors for Word Representation
-* Devlin et al. (2018) - BERT: Pre-training of Deep Bidirectional Transformers
-
+* [Tiny-BERT]([https://huggingface.co/prajjwal1/bert-tiny])
 ## 👨‍💻 Author
 
 Fathan Nabil Arrazani
