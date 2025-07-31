@@ -34,18 +34,6 @@ This project focuses on detecting fake news based solely on news headlines using
 
    * Fine-tuned Tiny-BERT with HuggingFace Transformers
 
-## 📝 Project Structure
-
-```
-├── data/                   # Folder for dataset
-├── models/                 # Saved models
-├── results/                # Evaluation reports and plots
-├── tfidf_ml.ipynb          # Notebook for TF-IDF + ML models
-├── lstm_glove.ipynb        # Notebook for LSTM + GloVe
-├── tinybert_finetune.ipynb # Notebook for Tiny-BERT fine-tuning
-└── README.md               # Project documentation
-```
-
 ## 📊 Evaluation Metrics
 
 * Accuracy
